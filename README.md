@@ -1,5 +1,3 @@
-# orestonce.github.io
-
 ## 简单c++库的标准
 * 不依赖额外的c/c++代码, 并且满足以下任意条件
   * 只包含1个头文件: xxx.h或者xxx.hpp (header only)
